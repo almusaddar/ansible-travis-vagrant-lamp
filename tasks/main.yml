@@ -5,6 +5,6 @@
   - name: install apache
     apt: name=apache2 state=present
   - name: install mysql
-    aptt: name=mysql-server state=present
+    apt: name=mysql-server state=present
   - name: install php
     apt: name=php5 state=present
