@@ -1,4 +1,4 @@
-# master playbook
+# master playbook for install LAMP Stack
 ---
   - name: update apt cache
     apt: update_cache=yes
