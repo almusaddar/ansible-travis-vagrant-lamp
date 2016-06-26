@@ -1,7 +1,8 @@
-# ansible-travis-vagrant-lamp [![Build Status](https://travis-ci.org/almusaddar/ansible-travis-vagrant-lamp.svg?branch=master)](https://travis-ci.org/almusaddar/ansible-travis-vagrant-lamp)
-LAMP Role using Ansible, tested on Travis CI and implemented using Vagrant
+# (Vagrant + Ansible + Travis CI) Startkit [![Build Status](https://travis-ci.org/almusaddar/ansible-travis-vagrant-lamp.svg?branch=master)](https://travis-ci.org/almusaddar/ansible-travis-vagrant-lamp)
+LAMP installed using Ansible, tested with Travis CI  on Vagrant box
 ## Tools:
+ - Vagrant
  - Ansible
  - Travis CI
- - Vagrant
- - LAMP
+
+
